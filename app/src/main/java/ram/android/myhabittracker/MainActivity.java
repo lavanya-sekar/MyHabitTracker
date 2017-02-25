@@ -43,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
                 insertHabit(habitName, habitDuration);
 
             }
-//hello
         });
         Button samplebutton1 = (Button) findViewById(R.id.button2);
         samplebutton1.setOnClickListener(new View.OnClickListener() {
